@@ -199,3 +199,4 @@ MIT License
 ## 联系方式
 
 如有问题或建议，请提交 Issue 或 Pull Request。
+Github 仓库：[https://github.com/sheepfishzhuo/vitepress-lab](https://github.com/sheepfishzhuo/vitepress-lab)
