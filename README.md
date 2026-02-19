@@ -22,6 +22,40 @@
 - [MyBatis Plus](https://baomidou.com/) - ORM 框架
 - [阿里云 OSS](https://www.aliyun.com/product/oss) - 对象存储服务
 
+## 项目截图
+
+<p align="center">
+  <img src="./img/1.png" width="49%" alt="首页">
+  <img src="./img/2.png" width="49%" alt="团队介绍">
+  
+</p>
+
+<p align="center">
+  <img src="./img/3.png" width="49%" alt="研究方向">
+  <img src="./img/4.png" width="49%" alt="学术论文">
+</p>
+
+<p align="center">
+  <img src="./img/5.png" width="49%" alt="科研项目">
+  <img src="./img/6.png" width="49%" alt="学术会议">
+</p>
+
+<p align="center">
+  <img src="./img/7.png" width="49%" alt="专利软著">
+  <img src="./img/8.png" width="49%" alt="竞赛获奖">
+  
+</p>
+
+<p align="center">
+  <img src="./img/9.png" width="49%" alt="系统研发">
+  <img src="./img/10.png" width="49%" alt="新闻动态">
+</p>
+<p align="center">
+  <img src="./img/11.png" width="49%" alt="加入我们">
+  <img src="./img/12.png" width="49%" alt="管理后台">
+</p>
+
+
 ## 项目结构
 
 ```
@@ -43,6 +77,7 @@ vitepress-lab/
 │   ├── team/                # 团队介绍页面
 │   ├── news/                # 新闻动态页面
 │   └── index.md             # 首页
+├── img/                     # Github 仓库图片目录
 ├── .gitignore               # Git 忽略文件
 ├── LICENSE                  # 项目许可证
 ├── package-lock.json        # 前端依赖锁文件
