@@ -27,7 +27,6 @@
 <p align="center">
   <img src="./img/1.png" width="49%" alt="首页">
   <img src="./img/2.png" width="49%" alt="团队介绍">
-  
 </p>
 
 <p align="center">
@@ -43,13 +42,13 @@
 <p align="center">
   <img src="./img/7.png" width="49%" alt="专利软著">
   <img src="./img/8.png" width="49%" alt="竞赛获奖">
-  
 </p>
 
 <p align="center">
   <img src="./img/9.png" width="49%" alt="系统研发">
   <img src="./img/10.png" width="49%" alt="新闻动态">
 </p>
+
 <p align="center">
   <img src="./img/11.png" width="49%" alt="加入我们">
   <img src="./img/12.png" width="49%" alt="管理后台">
